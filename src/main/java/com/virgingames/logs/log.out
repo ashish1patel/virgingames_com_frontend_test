@@ -1,0 +1,2 @@
+2023-08-17 15:08:962 INFO  HomePage :31 - clicking on Eighteen Plus Logo : [[ChromeDriver: chrome on WINDOWS (25639bf3d81fba99c57133cdacb6883d)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-08-17 15:08:964 INFO  OnlineSlotsPage :25 - Getting text from : [[ChromeDriver: chrome on WINDOWS (25639bf3d81fba99c57133cdacb6883d)] -> xpath: //h1[contains(text(),'Play Online Slots at Virgin Games')]]
